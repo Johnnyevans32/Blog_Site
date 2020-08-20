@@ -1,0 +1,26 @@
+
+@font-face{
+	font-family: damn;
+	src:url(Anders.ttf);
+}
+@font-face{
+	font-family: damn1;
+	src:url(koliko.ttf);
+}
+@font-face{
+	font-family: damn2;
+	src:url(Genera-AltLight.ttf);
+}
+@font-face{
+	font-family: damn3;
+	src:url(Dosis-Regular.ttf);
+}
+@font-face{
+	font-family: damn4;
+	src:url(Moon 2.0 Regular 400.ttf);
+}
+body{
+	font-family: damn2;
+	background-color: black;
+	color: white;
+}
